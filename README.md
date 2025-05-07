@@ -49,7 +49,4 @@ Durante el pasado año he realizado un Bootcamp en Adalab, así como multitud de
 
 Dejo por aquí un link a mi plataforma de Linkedin, por si queréis contactar. 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="laura-romero-jimenez-78aab82b7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/laura-romero-jimenez-78aab82b7?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
-              
