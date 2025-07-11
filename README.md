@@ -8,9 +8,7 @@ El motivo que me ha llevado a insertarme en este sector ha sido la curiosidad y 
 
 Durante el pasado año he realizado un Bootcamp en Adalab, así como multitud de cursos en la plataforma Platzi, que me han aportado conocimiento para poder desenvolverme con fluidez con las siguientes herramientas. 
 
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
