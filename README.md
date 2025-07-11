@@ -1,4 +1,4 @@
-<img src="imagen dibujo.png"> { width="300" height="200" }
+<img src="imagen dibujo.png" width="200" height="150"> 
 
 ## ¡¡Hola!! Gracias por pasarte por mi perfil👋
 
