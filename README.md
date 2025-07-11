@@ -1,3 +1,5 @@
+<img src="imagen dibujo.png">
+
 ## ¡¡Hola!! Gracias por pasarte por mi perfil👋
 
 Me presento, me llamo Laura, me he dedicado durante 12 años al sector de la Veterinaria. Después de todos estos años he decidido empezar un cambio laboral hacia el mundo del análisis de datos y automatización de procesos. 
