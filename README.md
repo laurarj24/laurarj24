@@ -1,4 +1,4 @@
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+
 <img src="imagen dibujo.png" width="600" height="450"> 
 
 ## ¡¡Hola!! Gracias por pasarte por mi perfil👋
